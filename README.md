@@ -1,4 +1,6 @@
-## Hi there 👋
+[![GitHub](https://img.shields.io/github/followers/joshbuchea?label=Followers&logo=GitHub&style=flat-square)](https://github.com/mrezahemmati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-500+-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mrezahemmati/)
+
 
 <!--
 **mrezahemmati/mrezahemmati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
