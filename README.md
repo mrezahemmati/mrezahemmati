@@ -1,4 +1,4 @@
-[![GitHub](https://img.shields.io/github/followers/joshbuchea?label=Followers&logo=GitHub&style=flat-square)](https://github.com/mrezahemmati)
+[![GitHub](https://img.shields.io/github/followers/mrezahemmati?label=Followers&logo=GitHub&style=flat-square)](https://github.com/mrezahemmati)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-500+-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mrezahemmati/)
 
 
